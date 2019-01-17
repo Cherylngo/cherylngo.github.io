@@ -2,7 +2,7 @@
 
 ---
 # Topics
-- [Data Visualization](Data Visualization/index)
+- [Data Visualization](Data Visualization/Index)
 
 ## Other Information
 
