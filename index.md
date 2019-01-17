@@ -2,7 +2,7 @@
 
 ---
 # Topics
-- [Data Visualization](/Data Visualization/index.md)
+- [Data Visualization](/Data Visualization/index)
 
 ## Other Information
 
