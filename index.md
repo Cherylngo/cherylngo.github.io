@@ -6,7 +6,7 @@
 
 ## About Me
 
-![Alternate Text](Headshot.png)
+![Alternate Text](pics/Headshot.png)
 
 This is content I've developed for my courses at William and Mary:
 - [Alternate Text](/subfolder/index.md)
