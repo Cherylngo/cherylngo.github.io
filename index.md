@@ -6,6 +6,6 @@
 
 ## Other Information
 
-[![Headshot](pics/Headshot.png&s=10)](https://www.linkedin.com/in/cherylngo/ "My LinkedIn Page")
+[![Headshot](pics/Headshot.pngs=10)](https://www.linkedin.com/in/cherylngo/ "My LinkedIn Page")
 
 [This is a link to an open-source repository](https://github.com/Cherylngo/jekyll-doc-project)
