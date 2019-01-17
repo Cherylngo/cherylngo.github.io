@@ -4,9 +4,11 @@
 # Topics
 - [Data Visualization](Data Visualization/index)
 
-## About Me
+## Other Information
 
-![Alternate Text](pics/Headshot.png)
+![Headshot](pics/Headshot.png)(https://www.linkedin.com/in/cherylngo/ "My LinkedIn Page")
+
+[This is a link to an open-source repository](https://github.com/Cherylngo/jekyll-doc-project)
 
 This is content I've developed for my courses at William and Mary:
 - [Alternate Text](/subfolder/index.md)
