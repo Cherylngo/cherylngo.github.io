@@ -2,6 +2,7 @@
 title: Digital Portfolio for Cheryl Ngo
 description: A website pertaining to the analytics knowledge of Cheryl Ngo
 ---
+![Alternate Text](path to image)
 
 This is content I've developed for my courses at William and Mary:
 - [Alternate Text](/subfolder/index.md)
