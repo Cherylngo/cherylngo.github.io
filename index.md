@@ -1,7 +1,11 @@
 ---
-title: "New"
-description: "test"
+
 ---
+# Topics
+- [Data Visualization](Data Visualization/index)
+
+## About Me
+
 ![Alternate Text](path to image)
 
 This is content I've developed for my courses at William and Mary:
