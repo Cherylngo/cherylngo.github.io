@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Digital Portfolio: Cheryl Ngo
+description: A website pertaining to the analytics knowledge of Cheryl Ngo
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
