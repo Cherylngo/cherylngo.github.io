@@ -4,7 +4,7 @@ description: Graphing with Python
 ---
 
 Competing Through Business Analytics: Graphing
-- [View in browser](BasicGraphAssignment.html)
-- [Download Jupyter file](BasicGraphAssignment.ipynb)
+- [View in browser (html)](BasicGraphAssignment.html)
+- [Download Jupyter file (ipynb)](BasicGraphAssignment.ipynb)
 
 [Home](https://cherylngo.github.io/)
