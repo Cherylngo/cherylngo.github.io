@@ -4,7 +4,7 @@ description: Graphing with Python
 ---
 
 Sample Coursework
-- [VIew in browser](BasicGraphingAssignment.html)
-- [Download Jupyter file](BasicGraphingAssginment.ipynb)
+- [VIew in browser](BasicGraphAssignment.html)
+- [Download Jupyter file](BasicGraphAssginment.ipynb)
 
 [Home](https://cherylngo.github.io/)
