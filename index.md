@@ -8,4 +8,4 @@
 
 [![Headshot](pics/Headshot.png)](https://www.linkedin.com/in/cherylngo/ "My LinkedIn Page")
 
-[This is a link to an open-source repository](https://github.com/Cherylngo/jekyll-doc-project&s=5)
+[This is a link to an open-source repository](https://github.com/Cherylngo/jekyll-doc-projects=5)
