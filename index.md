@@ -1,7 +1,10 @@
 ---
-title: Digital Portfolio: Cheryl Ngo
+title: Digital Portfolio for Cheryl Ngo
 description: A website pertaining to the analytics knowledge of Cheryl Ngo
 ---
+
+This is content I've developed for my courses at William and Mary:
+- [Alternate Text](/subfolder/index.md)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
