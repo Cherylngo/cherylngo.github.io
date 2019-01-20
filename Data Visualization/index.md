@@ -10,7 +10,7 @@ Graphing
 - [Download Jupyter file (ipynb)](BasicGraphAssignment.ipynb)
 
 Time Series Decomposition
-- [View in browder (html)](M3Graphing (1).html)
+- [View in browder (html)](M3Graphing_(1).html)
 - [Download Jupyter file (ipynb)](M3Graphing.ipynb)
 
 
