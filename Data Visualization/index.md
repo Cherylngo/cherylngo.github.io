@@ -14,7 +14,7 @@ Time Series Decomposition
 - [Download Jupyter file (ipynb)](M3Graphing.ipynb)
 
 Construction Spending Presentation
-- [Click here to view](https://youtu.be/ySC1Y_YXDC4)
+- [Click here to view](https://www.youtube.com/watch?v=ySC1Y_YXDC4)
 
 [This is a link to an open-source repository](https://github.com/Cherylngo/jekyll-doc-project)
 
