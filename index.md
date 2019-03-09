@@ -2,7 +2,7 @@
 
 ---
 # Topics
-- [Data Visualization](/Data Visualization/index.md)
+- [Competing Through Business Analytics](/Data Visualization/index.md)
 
 ## Other Information
 
