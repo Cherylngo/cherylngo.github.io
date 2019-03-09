@@ -16,6 +16,7 @@ Time Series Decomposition
 Construction Spending Presentation
 - [Click here to view](https://www.youtube.com/watch?v=ySC1Y_YXDC4)
 
-[This is a link to an open-source repository](https://github.com/Cherylngo/jekyll-doc-project)
+Bin Packing Algorithm
+- [Download Spyder file (ipynb)](binpacking.py)
 
 [Home](https://cherylngo.github.io/)
