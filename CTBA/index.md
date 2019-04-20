@@ -3,8 +3,8 @@ title: Course: Competing Through Business Analytics
 description: Spring 2019
 ---
 
-#Competing Through Business Analytics
-##Visualizations, Web Scraping, and Algorithms Using Python
+# Competing Through Business Analytics
+## Visualizations, Web Scraping, and Algorithms Using Python
 
 Time Series Decomposition
 - [View in browser (html)](M3Graphing.html)
