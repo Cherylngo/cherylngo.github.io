@@ -6,8 +6,8 @@ description: Visualizations, Web Scraping, and Algorithms Using Python
 Competing Through Business Analytics
 
 Graphing
-- [View in browser (html)](BasicGraphAssignment.html)
-- [Download Jupyter file (ipynb)](BasicGraphAssignment.ipynb)
+- [View in browser (html)](M3Graphing.html)
+- [Download Jupyter file (ipynb)](M3Graphing.ipynb)
 
 Time Series Decomposition
 - [View in browser (html)](M3Graphing.html)
