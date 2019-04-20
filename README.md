@@ -1,3 +1,5 @@
+This is a digital portfolio of my coursework in the Master of Science in Business Analytics program at the College of William and Mary.  File types include html and Jupyter.
+
 # The Slate theme
 
 [![Build Status](https://travis-ci.org/pages-themes/slate.svg?branch=master)](https://travis-ci.org/pages-themes/slate) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-slate.svg)](https://badge.fury.io/rb/jekyll-theme-slate)
