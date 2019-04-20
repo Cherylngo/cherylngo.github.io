@@ -2,7 +2,8 @@
 
 ---
 # Topics
-- [Competing Through Business Analytics](/Data Visualization/index.md)
+- [Competing Through Business Analytics](/CTBA/index.md)
+- [Database Management and Visualization](/DBMV/index.md)
 
 ## Other Information
 
