@@ -1,9 +1,10 @@
 ---
-title: Course: Database Management and Visualization (Spring 2019)
-description: Data Warehouse Concepts (MySQL and Alteryx) and Vizualization (Tableau)
+title: Course: Database Management and Visualization
+description: Spring 2019
 ---
 
-Database Management and Visualization
+#Database Management and Visualization
+##Data Warehouse Concepts (MySQL and Alteryx) and Vizualization (Tableau)
 
 MySQL Queries
 - [View in browser (html)](BankingQueries.sql)
