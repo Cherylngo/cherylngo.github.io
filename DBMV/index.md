@@ -10,6 +10,6 @@ MySQL Queries
 - [View in browser (MySQL)](BankingQueries.sql)
 
 Data Visualization Final Project
-- [Click here to view](DBMVFinalGroupProject.twbx)
+- [Click here to download (Tableau)](DBMVFinalGroupProject.twbx)
 
 [Home](https://cherylngo.github.io/)
