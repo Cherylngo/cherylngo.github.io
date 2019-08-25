@@ -1,0 +1,156 @@
+---
+title: "Three Simulations Assignment"
+author: "Cheryl Ngo"
+date: "June 9, 2019"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Question 1: Wozac
+```{r drugs}
+oneTimeCost=16
+price=3.7
+variableCost=.2
+operateCost=.4
+
+capacities=seq(30000,60000,5000) #Order quantity
+
+n=10000
+maxSimProfs=matrix(ncol=10,nrow=n)
+
+Matrix=matrix(ncol=10,nrow=length(capacities))
+for (j in 1:length(capacities)) { 
+  for (year in 1:10) {
+    yearOneCost=0
+    profs=c()
+    for (i in 1:n){ #10000 independent replications
+      if(year==1) {yearOneCost=oneTimeCost}
+      d=rnorm(n=1,mean=50000,sd=12000) #demand
+      revenue=min(d,capacities[j])*price
+      cost=capacities[j]*(operateCost+yearOneCost)+min(d,capacities[j])*variableCost
+      profit=revenue-cost
+      profs[i]=profit
+    }
+    Matrix[j,year]=mean(profs)
+    if(j==5) {maxSimProfs[,year]=profs}
+  }
+}
+
+maximized=50000
+
+expProfit=apply(Matrix,1,sum)
+plot(cbind(capacities,expProfit),ylab="Profit",xlab="Capacity",main="Expected Profit by Capacity")
+abline(v=maximized,lty=2)
+abline(h=expProfit[5],lty=2)
+
+expMaxProfs=apply(maxSimProfs,1,sum)
+mean(expMaxProfs)
+sd(expMaxProfs)
+ci=t.test(expMaxProfs,c(.025,.975))
+ci1=ci$conf.int[1]
+ci2=ci$conf.int[2]
+```
+
+1. I would recommend that they purchase 50,000 units worth of capacity to maximize their profit.  However, if they were looking for a lower upfront cost, they could purchase 45,000 units of capacity to a similar effect.  
+2. NuFeel can be 95% certain that mean profit for the 50,000 unit capacity will be between $`r round(ci1)`$ and $`r round(ci2)`$ dollars.  
+
+$$[x-\frac{1.96s}{\sqrt{N}}, x-\frac{1.96s}{\sqrt{N}}]$$
+
+## Question 2: Warranty
+```{r warranty}
+n=10000
+reps=matrix(ncol=3, nrow=n)
+for(i in 1:n){
+  
+  #Sample time until failure
+  cost=0
+  counter=0
+  years=6
+  fail=c()
+  warranty=0
+  while(years>0){
+    tToFail=rgamma(n=1,shape=2,scale=.5)
+    if(tToFail<1) {
+      if(years==6) {cost=100}
+      warranty=warranty+1
+    }
+    if(tToFail>1) {cost=cost+100}
+    counter=counter+1
+    fail[counter]=tToFail
+    years=years-tToFail
+  }
+reps[i,1]=counter
+reps[i,2]=cost
+reps[i,3]=warranty
+}
+par(mfrow=c(3,1))
+hist(reps[,2],main="Cost",w=100, xlab="Total Cost");   hist(reps[,3],main="Warranty-Covered  
+Failures Purchased in 6-Year Period", xlab="Total Failures");  
+hist(reps[,1],main="Devices Owned Within 6 Year-Period", xlab="Total Devices Owned")
+mean(reps[,2])
+mean(reps[,3])
+mean(reps[,1])
+
+```
+
+3. Total cost has an expected value of \$`r mean(reps[,2])`.  I would budget for at least a \$`r ceiling(mean(reps[,2])/100)*100` expense
+4. The expected value of the total number of failures during the warranty period is `r mean(reps[,3])`
+5. I would expect to own 7 devices since my simulation returned an expected value of `r mean(reps[,1])`
+
+##Question 3: Clearance
+```{r clearance}
+daysToSell=c()
+washerProb=c(.4,.25,.35)
+purchProb=.6
+arrivals=c(0,1,2,3,4)
+probArrival=c(.15,.25,.3,.2,.1)
+
+for(i in 1:10000){
+  
+  sales=as.data.frame(list(top=5,front=4,frontX=3,washersRemaining=12))
+  washers=c("top","front","frontX")
+  
+  days=1
+  
+  while(sales[nrow(sales),4]>0){
+    
+    #Sample number of arrivals
+    sampleArrival=sample(size=1,x=arrivals,prob=probArrival,replace=TRUE)
+    
+    #Sample number of interested
+    sampleInterest=sample(size=sampleArrival, x=c(0,1),prob=c(1-purchProb,purchProb), replace=TRUE)
+    numInterested=sum(sampleInterest)
+    
+    #Sample interest type
+    sampleType=sample(size=numInterested,x=washers,prob=washerProb,replace=TRUE)
+    numTop=sum(sampleType == 'top', na.rm=TRUE)
+    numFront=sum(sampleType == 'front', na.rm=TRUE)
+    numFrontX=sum(sampleType == 'frontX', na.rm=TRUE)
+    
+    #Subtract sales from the inventory
+    sales[nrow(sales)+1,]=list(ifelse(sales$top[days]-numTop<0,0,sales$top[days]-numTop),  
+                               ifelse(sales$front[days]-numFront<0,0,sales$front[days]-numFront), ifelse(sales$frontX[days]-numFrontX<0,0,sales$frontX[days]-numFrontX),0)
+    
+    sales[nrow(sales),4]=ifelse(sum(sales[days+1,1:3])<0,0,sum(sales[days+1,1:3]))
+    
+    days= days+1
+    
+  }
+  
+  daysToSell[i]=days-1
+
+}
+
+#Histogram of number of days until clearance was sold
+hist(daysToSell,main="Days to Sell Clearance Inventory",ylab="Count",xlab="Days",breaks=12)
+
+mean(daysToSell)
+qu=quantile(daysToSell,c(.05,.95))
+```
+
+It will take on average `r round(mean(daysToSell))` days to sell the clearance merchandise, but they should definitely be prepared for anywhere from `r round(qu[1])` to `r round(qu[2])` days to sell the merchandise.
