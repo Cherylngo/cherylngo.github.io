@@ -7,9 +7,9 @@ description: Summer 2019
 ### Statistics Concepts Including Queueing and Simulation
 
 Three Simulations Assignment
-- [View in browser (MySQL)](BankingQueries.sql)
+- [Click here to download (R-Markdown)](ThreeSimulationsAssignment.Rmd)
 
 Queueing Case - Group Project
-- [Click here to view](DBMVFinalGroupProject.twbx)
+- [Click here to download](QueueingCaseFinalAssignment.pdf)
 
 [Home](https://cherylngo.github.io/)
