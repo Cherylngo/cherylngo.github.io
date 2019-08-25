@@ -1,15 +1,17 @@
 ---
 title: Course: Probability and Statistics for Business Analytics
-description: Summer 2019
+description: Spring 2019
 ---
 
 ## Probability and Statistics for Business Analytics
 ### Statistics Concepts Including Queueing and Simulation
 
-Three Simulations Assignment
+#### Three Simulations Assignment
+Assignment: Create simulations for prescription drug profits, manufacterer warranty costs, and clearance sales
 - [Download R-Markdown file (Rmd)](ThreeSimulationsAssignment.Rmd)
 
-Queueing Case - Group Project
+#### Queueing Case - Group Project
+Assignment: Use provided data on an inbound call center to provide a suggestion on expansion and operation efficiency
 - [Download pdf](QueueingCaseFinalAssignment.pdf)
 
 [Home](https://cherylngo.github.io/)
