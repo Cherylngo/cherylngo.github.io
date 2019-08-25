@@ -7,9 +7,9 @@ description: Spring 2019
 ### Data Warehouse Concepts (MySQL and Alteryx) and Vizualization (Tableau)
 
 MySQL Queries
-- [View in browser (MySQL)](BankingQueries.sql)
+- [Download SQL file (sql)](BankingQueries.sql)
 
 Data Visualization Final Project
-- [Click here to download (Tableau)](DBMVFinalGroupProject.twbx)
+- [Download Tableau file (twbx)](DBMVFinalGroupProject.twbx)
 
 [Home](https://cherylngo.github.io/)
