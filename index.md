@@ -1,7 +1,7 @@
 ---
 
 ---
-# Program: M.S. Business Analytics
+## Program: M.S. Business Analytics
 
 ### Courses
 - [Competing Through Business Analytics](/CTBA/index.md)
