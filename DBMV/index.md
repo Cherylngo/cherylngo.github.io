@@ -7,7 +7,7 @@ description: Spring 2019
 ### Data Warehouse Concepts (MySQL and Alteryx) and Vizualization (Tableau)
 
 MySQL Queries
-- [View in browser (html)](BankingQueries.sql)
+- [View in browser (MySQL)](BankingQueries.sql)
 
 Data Visualization Final Project
 - [Click here to view]()
