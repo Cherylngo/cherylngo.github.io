@@ -7,9 +7,9 @@ description: Summer 2019
 ### Statistics Concepts Including Queueing and Simulation
 
 Three Simulations Assignment
-- [Click here to download (R-Markdown)](ThreeSimulationsAssignment.Rmd)
+- [Download R-Markdown file (Rmd)](ThreeSimulationsAssignment.Rmd)
 
 Queueing Case - Group Project
-- [Click here to download](QueueingCaseFinalAssignment.pdf)
+- [Download pdf](QueueingCaseFinalAssignment.pdf)
 
 [Home](https://cherylngo.github.io/)
