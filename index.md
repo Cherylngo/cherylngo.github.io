@@ -11,4 +11,4 @@
 
 [![Headshot](pics/Headshot.png)](https://www.linkedin.com/in/cherylngo/ "My LinkedIn Page")
 
-[My LinkedIn](https://www.linkedin.com/in/cherylngo/ "My LinkedIn Page")
+[My LinkedIn](https://www.linkedin.com/in/cherylngo/)
