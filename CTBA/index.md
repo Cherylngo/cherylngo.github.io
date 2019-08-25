@@ -11,7 +11,7 @@ Time Series Decomposition
 - [Download Jupyter file (ipynb)](M3Graphing.ipynb)
 
 Construction Spending Presentation
-- [Click here to view](https://www.youtube.com/watch?v=ySC1Y_YXDC4)
+- [Click here to view (Youtube)](https://www.youtube.com/watch?v=ySC1Y_YXDC4)
 
 Web Scraping 
 - [Download Spyder file (py)](json_scrape.py)
