@@ -1,6 +1,8 @@
 ---
 
 ---
+# Program: M.S. Business Analytics
+
 # Courses
 - [Competing Through Business Analytics](/CTBA/index.md)
 - [Database Management and Visualization](/DBMV/index.md)
