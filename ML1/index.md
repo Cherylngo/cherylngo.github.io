@@ -7,7 +7,10 @@ description: Summer 2019
 ### Data Preparation, Regression, and Classification in R
 
 Decision Trees, Bagging, and Random Forests
-- [Download R file (ipynb)](M3Graphing.ipynb)
+- [Download R file (.R)](M3Graphing.ipynb)
+
+Zero-Inflated Poission and Negative Binomial Regression
+- [Download R file (.R)]()
 
 
 
