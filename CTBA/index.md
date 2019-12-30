@@ -1,7 +1,7 @@
 ---
-course: Competing Through Business Analytics
-instructor: JR Bradley
-description: Spring 2019
+Course: Competing Through Business Analytics
+Instructor: JR Bradley
+Semester: Spring 2019
 ---
 
 ## Competing Through Business Analytics
@@ -10,7 +10,7 @@ description: Spring 2019
 ##### Time Series Decomposition
 Assignment: Decompose provided data on private and public construction
 - [View in browser (html)](M3Graphing.html)
-- [Download Jupyter file (ipynb)](M3Graphing.ipynb)
+- [Download the Jupyter file (ipynb)](M3Graphing.ipynb)
 
 ##### Construction Spending Presentation
 Assignment: Describe two patterns found in the Time Series Decomposition assignment
@@ -18,10 +18,10 @@ Assignment: Describe two patterns found in the Time Series Decomposition assignm
 
 ##### Web Scraping 
 Assignment: Scrape requested information concerning Steph Curry's 2015-2016 season
-- [Download Spyder file (py)](json_scrape.py)
+- [Download the Spyder file (py)](json_scrape.py)
 
 ##### Bin Packing Algorithm
 Assignment: Develop an algorithm which returns a solution to the Binpacking problem
-- [Download Spyder file (py)](binpacking.py)
+- [Download the Spyder file (py)](binpacking.py)
 
 [Home](https://cherylngo.github.io/)
