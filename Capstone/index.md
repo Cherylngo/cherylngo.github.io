@@ -1,7 +1,7 @@
 ---
-title: Course: Capstone Project
-instructor: 
-description: Spring 2020
+Course: Course: Capstone Project
+Instructor: 
+Semester: Spring 2020
 ---
 
 ## Capstone Project
@@ -9,6 +9,6 @@ description: Spring 2020
 
 ##### Subject Here
 Assignment: Description here
-- [Download Spyder file (py)](filename here)
+- [Download the PDF file (py)](filename here)
 
 [Home](https://cherylngo.github.io/)
