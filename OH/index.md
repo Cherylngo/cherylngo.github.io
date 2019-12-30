@@ -1,7 +1,7 @@
 ---
 title: Course: Optimization and Heuristics
 faculty: Professor Aaron Koehl
-description: Spring 2019
+description: Fall 2019
 ---
 
 ## Optimization and Heuristics
