@@ -1,6 +1,6 @@
 ---
 Course: Competing Through Business Analytics
-Instructor: JR Bradley
+Instructor: Professor JR Bradley
 Semester: Spring 2019
 ---
 
