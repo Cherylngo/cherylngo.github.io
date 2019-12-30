@@ -1,5 +1,6 @@
 ---
-title: Course: Competing Through Business Analytics
+course: Competing Through Business Analytics
+instructor: JR Bradley
 description: Spring 2019
 ---
 
