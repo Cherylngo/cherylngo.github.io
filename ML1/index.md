@@ -9,11 +9,11 @@ Semester: Summer 2019
 
 ##### Zero-Inflated Poission and Negative Binomial Regression
 Assignment: Explore a data set about wine using zero-inflated Poisson and negative binomial regression
-- [Download the R file (.R)](Zero-Inflation.R)
+- [Download the R file (R)](Zero-Inflation.R)
 
 ##### Decision Trees, Bagging, and Random Forests
 Assignment: Explore a data set about car insurance using decision trees to predict claims for a certain customer
-- [Download the R file (.R)](Trees.R)
+- [Download the R file (R)](Trees.R)
 
 
 
