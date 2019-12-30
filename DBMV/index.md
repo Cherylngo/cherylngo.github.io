@@ -10,7 +10,7 @@ description: Spring 2019
 Assignment: Generate queries to return required information from a banking database
 - [Download SQL file (sql)](BankingQueries.sql)
 
-##### Data Visualization Final Project (Group Project)
+##### Data Visualization Final Project - Group Project
 Assignment: Create a dashboard to best visualize the Medicare claims data
 - [Download Tableau file (twbx)](DBMVFinalGroupProject.twbx)
 
