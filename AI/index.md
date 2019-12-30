@@ -1,6 +1,6 @@
 ---
 title: Course: Artificial Intelligence
-faculty: Professor Paul Blossom
+instructor: Professor Paul Blossom
 description: Fall 2019
 ---
 
@@ -9,17 +9,17 @@ description: Fall 2019
 
 ##### Artificial Neural Network Classifier
 Assignment: Classify the quality of a red wine on an ordinal scale
-- [View as a PDF](CategoricalANNWriteup.pdf)
+- [Download the PDF file](CategoricalANNWriteup.pdf)
 - [Download Spyder file (py)](CategoricalANN.py)
 
 ##### Convolutional Neural Network for Computer Vision
 Assignment: Use the Fashion MNIST data to train a network that will classify images of clothing
-- [View as a PDF](ConvNetWriteup.pdf)
+- [Download the PDF file](ConvNetWriteup.pdf)
 - [Download the Spyder file (py)](ConvNet.py)
 
 ##### Recurrent Neural Network
 Assignment: Train a recurrent network based off of provided text to predict the next work in a series
-- [View as a PDF](RNNWriteup.pdf)
+- [Download the PDF file](RNNWriteup.pdf)
 - [Download the Spyder file (py)](RNN.py)
 
 ##### Artificial Neural Network Final Project
