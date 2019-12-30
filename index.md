@@ -19,6 +19,6 @@
 
 ### Other Information
 
-[![Headshot](pics/Headshot.png)](https://www.linkedin.com/in/cherylngo/ "My LinkedIn Page" =250x250)
+[![Headshot](pics/Headshot.png =250x250)](https://www.linkedin.com/in/cherylngo/ "My LinkedIn Page")
 
 [My LinkedIn](https://www.linkedin.com/in/cherylngo/)
