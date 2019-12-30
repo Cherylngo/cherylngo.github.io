@@ -25,7 +25,7 @@ Assignment: Train a recurrent network based off of provided text to predict the 
 ##### Artificial Neural Network Final Project
 Assignment: Choose a dataset from Kaggle and create an artificial neural network to accomplish an objective with that data.
 Summary: I used data on flight prices that included origin, destination, flight milage, number of tickets purchased, quarter number, and whether or not the flight was in the contiguous US to predict the price of a flight.  The test mean absolute error ended up being a rather large $88, but since flight prices are highly variable and dependent on more factors (with date being possibly the most significant) I felt that the network performed well.
-- [View the PDF fileF](FinalProjectWriteup.pdf)
+- [View the PDF file](FinalProjectWriteup.pdf)
 - [Download the Spyder file (py)](FinalProject.py)
 
 [Home](https://cherylngo.github.io/)
