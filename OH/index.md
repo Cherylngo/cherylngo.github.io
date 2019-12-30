@@ -1,5 +1,5 @@
 ---
-Course: Course: Optimization and Heuristics
+Course: Optimization and Heuristics
 Instructor: Professor Aaron Koehl
 Semester: Fall 2019
 ---
