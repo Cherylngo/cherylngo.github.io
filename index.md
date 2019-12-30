@@ -20,8 +20,6 @@
 - [Machine Learning II](/ML2/index.md)
 - [Capstone Project](/Capstone/index.md)
 
-### Other Information
-
-[![Headshot](pics/Headshot.jpg)](https://www.linkedin.com/in/cherylngo/ "My LinkedIn Page")
+### [Other Information](/Other Info/index.md)
 
 [My LinkedIn](https://www.linkedin.com/in/cherylngo/)
