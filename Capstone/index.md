@@ -1,5 +1,5 @@
 ---
-Course: Course: Capstone Project
+Course: Capstone Project
 Instructor: 
 Semester: Spring 2020
 ---
