@@ -1,7 +1,7 @@
 ---
-title: Course: Optimization and Heuristics
-faculty: Professor Aaron Koehl
-description: Fall 2019
+Course: Course: Optimization and Heuristics
+Instructor: Professor Aaron Koehl
+Semester: Fall 2019
 ---
 
 ## Optimization and Heuristics
@@ -9,20 +9,20 @@ description: Fall 2019
 
 ##### Linear Optimization
 Assignment: Determine the optimal investment portfolio that will minimize risk and while meeting specified criteria
-- [Download Spyder file (py)](LinearOptimization.py)
+- [Download the Spyder file (py)](LinearOptimization.py)
 
 ##### Discrete Optimization
 Assignment: Practice with minimum spanning trees in R
-- [Download PDF file](DiscreteOptimizationWriteup.pdf)
+- [Download the PDF file](DiscreteOptimizationWriteup.pdf)
 - [Download the R Markdown file (Rmd)](DiscreteOptimization.Rmd)
 
 ##### Non-linear Optimization - Group Project
 Assignment: Write a program that will provide the maximized returns of a portfolio of NASDAQ stocks by computing the efficient frontier
-- [Download PDF file](PortfolioGroupWriteup.pdf)
+- [Download the PDF file](PortfolioGroupWriteup.pdf)
 - [Download the Spyder file (py)](PortfolioGroup.py)
 
 ##### Heuristics Final Project
 Assignment: Determine a good location for three manufacturing sites to minimize total distance traveled while meeting shipping demand
-- [Download PDF file](FinalIntegrationAssignment.pdf)
+- [Download the PDF file](FinalIntegrationAssignment.pdf)
 
 [Home](https://cherylngo.github.io/)
