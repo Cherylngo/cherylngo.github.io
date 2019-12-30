@@ -1,7 +1,7 @@
 ---
-course: Artificial Intelligence
-instructor: Professor Paul Blossom
-description: Fall 2019
+Course: Artificial Intelligence
+Instructor: Professor Paul Blossom
+Semester: Fall 2019
 ---
 
 ## Artificial Intelligence
