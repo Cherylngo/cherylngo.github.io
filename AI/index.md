@@ -1,5 +1,5 @@
 ---
-title: Course: Artificial Intelligence
+course: Artificial Intelligence
 instructor: Professor Paul Blossom
 description: Fall 2019
 ---
