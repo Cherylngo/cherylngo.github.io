@@ -13,12 +13,12 @@
 - [Machine Learning I](/ML1/index.md)
 
 #### Fall 2019
-- [Optimization and Heuristics]()
-- [Artificial Intelligence]()
+- [Optimization and Heuristics](/OH/index.md)
+- [Artificial Intelligence](/AI/index.md)
 
 #### Spring 2020
-- [Machine Learning II]()
-- [Capstone Project]
+- [Machine Learning II](/ML2/index.md)
+- [Capstone Project](/Capstone/index.md)
 
 ### Other Information
 
