@@ -5,10 +5,10 @@ Semester: Spring 2020
 ---
 
 ## Maching Learning II
-### Description Here
+### Data Storage and Retrieval in Python using Hadoop Applications (e.g., MapReduce and Spark)
 
 ##### Subject Here
-Assignment: Description here
+Assignment: Support Vector Machine
 - [Download the Spyder file (py)](filename here)
 
 [Home](https://cherylngo.github.io/)
