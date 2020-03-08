@@ -20,7 +20,7 @@ Assignment: Use MapReduce to sort customer data by sum of amount spent
 ##### Spark - Group Project
 Assignment: Develop and answer business questions on any dataset
 - [Download the Spyder file (py)](FinalGroup3DataAssignment.py)
-- [View the PDF file](M6_ Spark Assignment.pdf)
+- [View the PDF file](M6SparkAssignment.pdf)
 - [Download the output file (txt)](Module6DataAssignmentAnswer.txt)
 
 [Home](https://cherylngo.github.io/)
