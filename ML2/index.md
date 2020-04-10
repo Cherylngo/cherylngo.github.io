@@ -6,8 +6,8 @@ Semester: Spring 2020
 
 ## Maching Learning II
 In this course, I practiced data storage and retrieval techniques in Python using Hadoop Applications (MapReduce and Spark)
-
-
+<br />
+<br />
 #### A selection of coursework:
 ##### Support Vector Machine
 Assignment: Develop models which predict whether or not a person was in a car crash
