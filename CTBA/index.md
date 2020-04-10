@@ -5,7 +5,7 @@ Semester: Spring 2019
 ---
 
 ## Competing Through Business Analytics
-##### In this course, I used Python to create effective visualizations, scrape the web to obtain information (XLM, HTML, and JSON), and practice creating and improving algorithms
+In this course, I used Python to create effective visualizations, scrape the web to obtain information (XLM, HTML, and JSON), and practice creating and improving algorithms
 
 
 #### A selection of coursework
