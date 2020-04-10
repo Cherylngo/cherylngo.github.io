@@ -5,8 +5,9 @@ Semester: Fall 2019
 ---
 
 ## Artificial Intelligence
-### Neural Networks, Computer Vision, and Deep Learning using Python
+##### In this course, I learned about creating neural networks using Python including using deep learning for predictive text and image classification via computer vision
 
+#### A selection of coursework:
 ##### Artificial Neural Network Classifier
 Assignment: Classify the quality of a red wine on an ordinal scale
 - [View the PDF file](CategoricalANNWriteup.pdf)
@@ -17,7 +18,7 @@ Assignment: Use the Fashion MNIST data to train a network that will classify ima
 - [View the PDF file](ConvNetWriteup.pdf)
 - [Download the Spyder file (py)](ConvNet.py)
 
-##### Recurrent Neural Network
+##### Recurrent Neural Network for Predictive Text
 Assignment: Train a recurrent network based off of provided text to predict the next work in a series
 - [View the PDF file](RNNWriteup.pdf)
 - [Download the Spyder file (py)](RNN.py)
