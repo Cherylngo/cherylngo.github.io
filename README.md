@@ -1,4 +1,4 @@
-This is a digital portfolio of my coursework in the Master of Science in Business Analytics program at the College of William and Mary (Fall 2018 - Spring 2020).  File types include html and Jupyter.
+This is a digital portfolio of my coursework in the Master of Science in Business Analytics program at the College of William and Mary (Fall 2018 - Spring 2020).
 
 # The Slate theme
 
