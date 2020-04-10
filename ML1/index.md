@@ -6,8 +6,8 @@ Semester: Summer 2019
 
 ## Machine Learning I
 In this course, I used R to practice data preparation including handling missing values, outliers, and variable transformations. I used the resulting data to create--and iteratively improve on--regression and classification models.
-
-
+<br />
+<br />
 #### A selection of coursework:
 ##### Zero-Inflated Poission and Negative Binomial Regression
 Assignment: Explore a data set about wine using zero-inflated Poisson and negative binomial regression
