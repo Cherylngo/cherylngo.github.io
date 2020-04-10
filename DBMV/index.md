@@ -6,8 +6,8 @@ Semester: Spring 2019
 
 ## Database Management and Visualization
 In this course, I learned how to create a database through the ETL process using Alteryx, access data in a database using MySQL, and design visually appealing interactive reports using Tableau
-
-
+<br />
+<br />
 #### A selection of coursework:
 ##### MySQL Queries
 Assignment: Generate queries to return required information from a banking database
