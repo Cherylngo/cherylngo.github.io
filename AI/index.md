@@ -8,7 +8,6 @@ Semester: Fall 2019
 In this course, I learned about creating neural networks using Python including using deep learning for predictive text and image classification via computer vision
 
 \
-\
 
 #### A selection of coursework:
 ##### Artificial Neural Network Classifier
