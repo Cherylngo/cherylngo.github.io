@@ -5,9 +5,10 @@ Semester: Fall 2019
 ---
 
 ## Artificial Intelligence
-In this course, I learned about creating neural networks using Python including using deep learning for predictive text and image classification via computer vision \
-
-\ #### A selection of coursework:
+In this course, I learned about creating neural networks using Python including using deep learning for predictive text and image classification via computer vision
+{nbsp} +
+{nbsp} +
+#### A selection of coursework:
 ##### Artificial Neural Network Classifier
 Assignment: Classify the quality of a red wine on an ordinal scale
 - [View the PDF file](CategoricalANNWriteup.pdf)
