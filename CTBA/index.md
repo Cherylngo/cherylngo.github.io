@@ -7,7 +7,8 @@ Semester: Spring 2019
 ## Competing Through Business Analytics
 ##### In this course, I used Python to create effective visualizations, scrape the web to obtain information (XLM, HTML, and JSON), and practice creating and improving algorithms
 
-### A selection of coursework
+
+#### A selection of coursework
 ##### Time Series Decomposition
 Assignment: Decompose provided data on private and public construction
 - [View in browser (html)](M3Graphing.html)
