@@ -5,8 +5,10 @@ Semester: Spring 2019
 ---
 
 ## Probability and Statistics for Business Analytics
-### Statistics Concepts Including Queueing and Simulation
+In this course, I used simulation modeling to answer business questions about real-world problems including queueing models
 
+
+#### A selection of coursework:
 ##### Three Simulations Assignment
 Assignment: Create simulations for prescription drug profits, manufacterer warranty costs, and clearance sales
 - [Download the R-Markdown file (Rmd)](ThreeSimulationsAssignment.Rmd)
