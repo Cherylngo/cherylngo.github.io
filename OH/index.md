@@ -5,8 +5,10 @@ Semester: Fall 2019
 ---
 
 ## Optimization and Heuristics
-### Linear, Discrete, and Non-Linear Optimization and Heuristics Using Solver in Excel, Gurobi in Python, R, and MySQL
+In this course, I practiced linear, discrete, and non-linear optimization and heuristics using Solver in Excel, Gurobi in Python, and optrees in R with MySQL for database connections
 
+
+#### A selection of coursework:
 ##### Linear Optimization
 Assignment: Determine the optimal investment portfolio that will minimize risk and while meeting specified criteria
 - [Download the Spyder file (py)](LinearOptimization.py)
